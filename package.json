@@ -1,0 +1,30 @@
+{
+  "name": "react-start-template",
+  "version": "0.0.1",
+  "description": "Start template to React project with TypeScript, Jest, Redux, CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksv741/React-Start-Template.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "TypeScript",
+    "Jest"
+  ],
+  "author": "Krylov <ksv741@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksv741/React-Start-Template/issues"
+  },
+  "homepage": "https://github.com/ksv741/React-Start-Template#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
